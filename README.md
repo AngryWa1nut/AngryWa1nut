@@ -41,4 +41,4 @@
 
 ### 📫 Contact
 - 📧 Email: amry0719@hufs.ac.kr
-- 🔗 Portfolio: https://AngryWa1nut.github.io/[포트폴리오-저장소-이름]
+- 🔗 Portfolio: https://AngryWa1nut.github.io/portfolio
