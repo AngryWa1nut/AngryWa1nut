@@ -1,4 +1,4 @@
-# Hi there, I'm AngryWa1nut 👋
+# Hi there, I'm Juhwan Park 👋
 
 ### 🎓 Academic Background
 - **Major:** Computer Science @ Hankuk University of Foreign Studies (Junior)
