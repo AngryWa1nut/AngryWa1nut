@@ -48,4 +48,4 @@ Hankuk University of Foreign Studies
 ## 📫 Contact
 
 - **Email:** [amry0719@hufs.ac.kr](mailto:amry0719@hufs.ac.kr)
-- **Portfolio:** [AngryWa1nut.github.io/portfolio](https://AngryWa1nut.github.io/portfolio)
+- **Portfolio:** [AngryWa1nut.github.io](https://angrywa1nut.github.io/)
